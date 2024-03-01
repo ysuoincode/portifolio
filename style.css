@@ -293,6 +293,11 @@ section .header{
     border-color: #1e40af;
 }
 
+.pricing .card button > a{
+    color: #fff;
+    text-decoration: none;
+}
+
 footer{
     position: relative;
     display: grid;
